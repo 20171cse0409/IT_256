@@ -1,0 +1,22 @@
+@import "style2_24.css";
+*{
+ color:#ff7800;
+ }
+h1,p{
+    background-color: lightblue;
+    text-align:center;
+  }
+h1{
+    color:black;
+   
+  }
+p{
+   font-size:35px;
+   font-family:Helvetica;
+
+}
+
+body{
+   margin:100px 100px 100px 100px;
+   }
+
