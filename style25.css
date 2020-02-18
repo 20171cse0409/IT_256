@@ -1,0 +1,21 @@
+a:hover{
+color:red;  
+}
+h3:hover
+{ color:#ff0000;
+
+}
+p:hover{
+background-color:lightblue; 
+color:#ff7800;
+}
+div
+{
+ margin:1cm 1cm 1cm 1cm; 
+}
+p{
+font-size:16pt;
+letter-spacing:.5em;
+line-height:3ex;
+word-spacing:.03in;
+}
